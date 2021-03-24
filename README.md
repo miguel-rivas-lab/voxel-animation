@@ -1,1 +1,1 @@
-# voxel-animation-dev
+# Voxel Cube Games: Animation
